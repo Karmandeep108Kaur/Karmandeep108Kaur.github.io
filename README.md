@@ -5,6 +5,7 @@ Hi everyone, my name is Karmandeep Kaur. I was born in 2006 and live in Ludhiana
 
 # Academics
 | **SNo.** | **Academics** | **Year** | **Score** |
+|----------|---------------|----------|-----------|
 | 1 | 10th Grade | 2022 | 94.5 % |
 | 2 | 12th Grade | 2024 | 91.4 % |
 
