@@ -54,7 +54,7 @@ teachers as well as peers.
 ### My 6th Day at GNDEC 
 
 | Date | Event | Description |
-| ----------- | ----------- |
+|---|---|---|
 | 16th July 2024 | Maths Class by Miss Sandeep Kaur | In today's maths class Sandeep ma'am gave us different questions from differentiation and integration, we solved those questions and asked our doubts. We all were having a good time solving questions with our peers. Everything was going good when me and my friend realised that we were in the wrong section for the past one hour. Fortunately our section also had maths class so we were able to manage our work. But still we enjoyed the entire class. |
 | 16th July 2024  | UHV Class by Miss JK | Today was our second UHV class in which ma'am enlightened us about the topic understanding the human being as coexistence of self and body. We also learn how to distinguish between self and body and how to maintain a balance between the two. The way JK ma'am explain us was phenomenal. She also interacted with us one on one by asking our introduction and takeaways from the lesson at the end of the class. We also had an English test after this class. | 
 | 16th July 2024 | Code GNE Class by Mr. Hardeep Rai | Our 6th day at college ended with another amazing session with Hardeep Rai sir, who always try to tell new things each time we have a session. Today we learnt that how we can make ourselves independent in terms of technology and advancement. His way of teaching is completely different from others but however is unique and highly beneficial. |
