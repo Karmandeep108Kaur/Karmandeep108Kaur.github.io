@@ -4,6 +4,7 @@
 Hi everyone, my name is Karmandeep Kaur. I was born in 2006 and live in Ludhiana, Punjab since then. I have passed my 10th and 10 + 2 from Partap Public School, Ludhiana. I am currently pursuing my BTech in Computer Science and Engineering from Guru Nanak Dev Engineering College with the aim of becoming a Software Engineer in a renowned company. I cherish reading books in my leisure time and love to explore new things when it comes to technology. I know basics of python and currently pursuing my Java and Excel course from Guru Nanak Dev Engineering College. 
 
 ### My Excel Certificate
+
 ![alt text](Excel Certificate.jpg)
 
 ## Academics
