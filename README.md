@@ -5,7 +5,7 @@ Hi everyone, my name is Karmandeep Kaur. I was born in 2006 and live in Ludhiana
 
 ### My Excel Certificate
 
-![alt text](https://github.com/Karmandeep108Kaur/Karmandeep108Kaur.github.io/blob/main/Excel%20Certificate.jpg)
+![alt text](ExcelCertificate.jpg)
 
 ## Academics
 
