@@ -15,7 +15,7 @@ Hi everyone, my name is Karmandeep Kaur. I was born in 2006 and live in Ludhiana
 | 12th Grade | 2024 | 91.4 % |
 
 ## Activity Report Student Induction Program 2024
-![alt text](GNDEC.jpg)
+![alt text](principal_sir.jpg)
 
 ### My 1st Day at GNDEC
 Today was the first day of our college journey at Guru Nanak Dev Engineering College. We started or day by praying at college Gurudwara Sahib which was a cherry on cake for our first day of college. Today various faculty members including old principle sir of Guru Nanak Dev Engineering College who was also an alumnus of the same college encouraged us on the first day of our college with their words of wisdom and give an important message “no tension and full attention”. Various other alumni also share there invaluable experience with the freshers in which they made us aware about various mistakes that they and there college mates had done at the time of their own college. In a nutshell be completely enjoyed are first day of our college journey by gaining fruitful knowledge.
