@@ -65,10 +65,10 @@ teachers as well as peers.
 
 ### My 7th Day at GNDEC 
 
-1. Peer interaction
+**1. Peer interaction**
 Our day started with the peer interaction, in which our seniors gave us a detailed information about our college exams. They explained us all the guidelines of the examinations. We also learnt that how to calculate SGPA and CGPA. Our seniors were interactive and polite while answering our queries. 
 
-2. Maths class by Ms. SKG 
+**2. Maths class by Ms. SKG**
 Further we had our maths class with Sandeep Kaur ma'am. She gave us new questions of differentiation and integration to solve in the class. Whosoever solved the question first was called to solve the same question on the blackboard. She also helped us in solving our doubts from the previous lecture. 
 
 3. Lecture by ANO-NCC Dr. Harwinder Singh 
